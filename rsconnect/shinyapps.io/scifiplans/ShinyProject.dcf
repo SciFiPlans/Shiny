@@ -1,0 +1,9 @@
+name: ShinyProject
+account: scifiplans
+server: shinyapps.io
+appId: 97627
+bundleId: 432159
+url: https://scifiplans.shinyapps.io/ShinyProject/
+when: 1461520580.10259
+asMultiple: FALSE
+asStatic: FALSE
